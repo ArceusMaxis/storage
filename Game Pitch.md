@@ -41,6 +41,7 @@ Sounds: Grunts,Mousy sounds,etc.
 | HP    | ++    |
 | Speed | -     |
 | Weapon Slots      |    2   |
+| Ammo Count | 1 |
 
 ### Passive Ability
 ###### Burrow
@@ -66,6 +67,7 @@ Sounds: Grunts,Mousy sounds,etc.
 | HP          | Default |
 | Speed       | Default |
 | Weapon Slots |2         |
+| Ammo Count | 1 |
 
 ### Passive Ability
 ###### Cache Clear/Brainwash
@@ -90,6 +92,7 @@ Wears a Z-CAT suit with Kytrai augments. Red-eye goggle for left eye.
 | HP          | +     |
 | Speed       | 0.95 |
 | Weapon Slot | 1      |
+| Ammo Count | 1 |
 
 ### Passive Ability
 ###### Kytrail Shotgun/rifle
@@ -116,6 +119,7 @@ Taller than usual. (About 18-19 pixels)
 | HP          | +     |
 | Speed       | Default |
 | Weapon Slot | 2     |
+| Ammo Count | 1 |
 
 ### Passive Ability
 ###### Kwenda
@@ -130,7 +134,7 @@ Cant use weaponry in meantime.
 Move speed: ++/ 2
 
 # Skzzrit
-## M.B.W.O : Medical & Bio-Weaponry Officer
+## MBWO : Medical & Bio-Weaponry Officer
 It is a reptilian from hollow earth. More reptile -less human.
 little legs, thick tail, green skin, yellow eyes
 
@@ -142,6 +146,7 @@ Sounds: hisses often
 | HP          | Default |
 | Speed       | 1.15    |
 | Weapon Slot | 2       |
+| Ammo Count | 1 |
 | Decoy HP    | 2       | 
 
 ### Passive Ability
@@ -156,13 +161,13 @@ Decoy is a grayish version of Skzzrit.
 # Meijuan
 ## CEO : Chief Executive Officer
 
-
 ## Attributes
 | attr        | value   |
 | ----------- | ------- |
 | HP          | -- |
 | Speed       | Default |
 | Weapon Slots |2         |
+| Ammo Count | 1 |
 
 ### Passive Ability
 ###### Confidence
@@ -180,5 +185,62 @@ When confidence bar is filled:
 - heal 2 HP
 - Timed shots (ROR2 railgunner): instant kill non-boss
 - Timed shots (ROR2 railgunner): Do damage for 12.5% of boss HP
-- 
 
+# K.Z.
+##  ??? : ??????
+Japanese, white hair, black glasses,tuxedo, gauntlets
+
+Sounds: Laughs... a lot
+
+## Attributes
+| attr        | value   |
+| ----------- | ------- |
+| HP          | -3 |
+| Speed       | Default |
+| Weapon Slots |1         |
+| Ammo Count | 0.5 |
+
+### Passive Ability
+###### Deflection
+Deflect projectiles 180 degrees, same speed, same damage
+All damage is applied as explosion
+Radius of explosion is 2 tiles: 32px
+Radius of deflection is 2.5 tiles: 40px
+Cooldown Time : 0.75 secs
+
+### Epiphany
+Deflection range increased to 4 tiles: 64px
+Radius of explosion is 3.5 tiles: 56px
+Damage of explosion is 2x
+
+# "Cooper"
+##  ??? : ??????
+A cave-man diseased by Jovite Crystal Growth on his back.
+A possible experiment victim? (i know lore but dont wanna share it lol)
+
+## Attributes
+| attr        | value   |
+| ----------- | ------- |
+| HP          | -5 |
+| Speed       | Default |
+| Weapon Slots |1         |
+| Ammo Count | 0.5 |
+
+### Passive Ability
+###### Gaakroteii
+Pulls a shard from back and strikes enemy at distance
+Stuns enemy for 5 secs
+Range of shard : Infinity
+Cooldown Time : 1.1 secs
+Wind-up time : 0.3 secs
+
+### Epiphany
+3 Shards are pulled out, and smashed together to make a boomerang
+Throws it to fly in a spiralish path for about 5.5 tiles : 88px
+Duration : 8 secs
+Cooldown Time: 40 secs
+Can still do passive ability at will
+
+##### Comments
+Cooper is a mix of both stunner + tomahawk...
+idk what to say, needs improvement/refinement a lot?
